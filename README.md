@@ -1,3 +1,13 @@
+Task Management Application in NestJS
+---
+
+View API documentation <a href = "https://documenter.getpostman.com/view/7951211/TzefAiKr"> here </a>
+ 
+<hr>
+
+About NestJs
+---
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
